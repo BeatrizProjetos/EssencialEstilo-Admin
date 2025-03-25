@@ -1,0 +1,2 @@
+# EssencialEstilo-Admin
+Funcionalidades: 
